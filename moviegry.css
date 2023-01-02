@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baskervville&family=Chivo+Mono:wght@100&family=Playfair+Display&family=Rubik+Gemstones&family=Scope+One&family=Sevillana&display=swap');
+.head{
+    width: 1500px;
+    height: 30px;
+  background-color:rgb(145, 9, 9) ;
+  color: black;
+  text-align: center;
+}
+.main{
+    background-color:white;
+    width:100%;
+    height: 1300px;
+    position: relative;
+}
+h4{
+    text-align: center;
+}
+.col{
+    width: 297px;
+    height: 710px;
+    border: solid white 1px;
+    border-radius: 18px;
+    position: absolute;
+    
+}
+.col-1{
+    background-color: black;
+    left: 302px;
+    color: white;
+}
+.col-2{
+    background-color:black ;
+    left: 603px;
+    color: white;
+}
+.col-3{
+    background-color:black ;
+    left: 904px;
+    color: white;
+}
+.col-4{
+    background-color: black;
+    left: 1205px;
+    color: white;
+}
+.col-5{
+    background-color:black ;
+    left: 1px;
+    color: white;
+}
+h3{
+    text-align: center;
+    font-family: 'Scope One', serif;
+}
+p{
+    text-align:left;
+}
+img{
+    width: 60%;
+    padding-left: 50px;
+    padding-top: 6px;
+}
+.box{
+    background-color: rgb(184, 184, 15);
+    width: 128px;
+    height: 32px;
+    position: absolute;
+    left: 30%;
+    top: 667px;
+    color: black;
+    border-radius: 15px;
+    text-align:center;
+}
+
+
